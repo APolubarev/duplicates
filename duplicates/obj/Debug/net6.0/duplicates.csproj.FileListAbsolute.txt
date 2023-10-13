@@ -1,0 +1,15 @@
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\duplicates.csproj.AssemblyReference.cache
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\duplicates.AssemblyInfoInputs.cache
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\duplicates.AssemblyInfo.cs
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\duplicates.csproj.CoreCompileInputs.cache
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\duplicates.exe
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\duplicates.deps.json
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\duplicates.runtimeconfig.json
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\duplicates.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\duplicates.pdb
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\duplicates.dll
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\refint\duplicates.dll
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\duplicates.pdb
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\duplicates.genruntimeconfig.cache
+C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\ref\duplicates.dll
