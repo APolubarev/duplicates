@@ -9,5 +9,9 @@
   <ItemGroup>
     <PackageReference Include="EPPlus" Version="6.2.10" />
   </ItemGroup>
-
+  
+  <PropertyGroup>
+      <PublishSingleFile>true</PublishSingleFile>
+  </PropertyGroup>
 </Project>
+ 
