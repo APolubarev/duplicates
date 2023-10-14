@@ -8,6 +8,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        Console.WriteLine(DateTime.Now);
         String[] f_names = Directory.GetFiles(@"c:\Jod\Base\Indastra\Файлы загрузки\");
         //FileInfo fi = new FileInfo(@"c:\Jod\C#\Worm_Gearbox.xlsx");
 
@@ -28,5 +29,10 @@ internal class Program
 
 
         }
+        Console.WriteLine(DateTime.Now);
     }
+}
+public class Settings{
+    public string dir { get; set; }
+    
 }
