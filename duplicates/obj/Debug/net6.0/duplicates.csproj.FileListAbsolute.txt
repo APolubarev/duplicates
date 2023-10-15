@@ -33,3 +33,15 @@ C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System
 C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
 C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\duplicates.csproj.CopyComplete
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Npgsql.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
