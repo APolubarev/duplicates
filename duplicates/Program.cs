@@ -22,8 +22,8 @@ internal class Program
 
         foreach (string f_name in f_names)
         {
-            FileInfo f_i = new FileInfo(f_name);
-            using (ExcelPackage excelPackage = new ExcelPackage(f_i))
+            FileInfo f_i = new(f_name);
+            using (ExcelPackage excelPackage = new(f_i))
             {
 
                 ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
@@ -77,7 +77,8 @@ internal class Program
                         string article = GetStrValue(firstWorksheet, n, Col_article);
                         string model = GetStrValue(firstWorksheet, n, Col_model);
                         string category = GetStrValue(firstWorksheet, n, Col_category);
-                        string strValue = String.Format("('{0}','{1}','{2}')", article, model, category);
+                        // string strValue = String.Format("('{0}','{1}','{2}')", article, model, category);
+                        string strValue = $"('{article}','{model}','{category}')";
                         if (strValue == "('','','')" )
                         {
                             break;  
@@ -87,7 +88,7 @@ internal class Program
                     }
                     string AllValues = String.Join(",", values);
                    
-                    string CommandText = String.Format("INSERT INTO public.duplicates(article_indastra_characteristics, model, category) VALUES {0};", AllValues);
+                    string CommandText = $"INSERT INTO public.duplicates(article_indastra_characteristics, model, category) VALUES {AllValues};";
                     using (var command = new NpgsqlCommand(CommandText, conn))
                     {
                         // command.Parameters.AddWithValue("v", AllValues);
@@ -106,16 +107,9 @@ internal class Program
     private static string GetStrValue(OfficeOpenXml.ExcelWorksheet Worksheet, int n, int col)
     {
         var val = Worksheet.Cells[n, col].Value;
-        string article;
-        if (val is null)
-        {
-            article = "";
-        }
-        else
-        {
-            article = val.ToString();
-        }
-        return article;
+   
+   
+        return val?.ToString() ?? "";
     }
 }
 public class Settings
