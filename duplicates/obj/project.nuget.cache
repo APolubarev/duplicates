@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "byHsS98g3xT4CUcvJwuQtI+dk78hfrqjEWeZXSgEA268M8o1LDjLEFUygx+SeC9uh3RdgkHkeH1D/CVzGJMuIQ==",
+  "dgSpecHash": "i/x4T6gnPLUW1/jcN5wa8o4/mAydj7lyDgdlA9j+X6MFt6y/y7FvOa5ErYm3kwSNf30Kb59dU6VtvpqTGUOqOg==",
   "success": true,
   "projectFilePath": "C:\\Jod\\C#\\duplicates\\duplicates\\duplicates.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,10 @@
     "C:\\Users\\Andy\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.3\\system.security.cryptography.pkcs.6.0.3.nupkg.sha512",
     "C:\\Users\\Andy\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\Andy\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\Andy\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\Andy\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.5\\microsoft.netcore.app.runtime.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.5\\microsoft.aspnetcore.app.runtime.win-x64.6.0.5.nupkg.sha512"
   ],
   "logs": []
 }

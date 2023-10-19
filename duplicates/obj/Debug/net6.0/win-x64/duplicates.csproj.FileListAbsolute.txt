@@ -251,3 +251,15 @@ C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\win-x64\refint\duplicates.dll
 C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\win-x64\duplicates.pdb
 C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\win-x64\duplicates.genruntimeconfig.cache
 C:\Jod\C#\duplicates\duplicates\obj\Debug\net6.0\win-x64\ref\duplicates.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Npgsql.dll
+C:\Jod\C#\duplicates\duplicates\bin\Debug\net6.0\win-x64\Npgsql.EntityFrameworkCore.PostgreSQL.dll

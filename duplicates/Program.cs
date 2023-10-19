@@ -78,9 +78,15 @@ internal class Program
                         string model = GetStrValue(firstWorksheet, n, Col_model);
                         string category = GetStrValue(firstWorksheet, n, Col_category);
                         string strValue = String.Format("('{0}','{1}','{2}')", article, model, category);
+                        if (strValue == "('','','')" )
+                        {
+                            break;  
+                        }
                         values.Add(strValue);
+ 
                     }
                     string AllValues = String.Join(",", values);
+                   
                     string CommandText = String.Format("INSERT INTO public.duplicates(article_indastra_characteristics, model, category) VALUES {0};", AllValues);
                     using (var command = new NpgsqlCommand(CommandText, conn))
                     {
