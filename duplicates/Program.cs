@@ -93,7 +93,7 @@ internal class Program
                     {
                         // command.Parameters.AddWithValue("v", AllValues);
                         int nRows = command.ExecuteNonQuery();
-                        Console.Out.WriteLine(String.Format("Number of rows updated={0}", nRows));
+                        Console.Out.WriteLine($"Number of rows updated={nRows}");
                     }
 
 
