@@ -103,6 +103,7 @@ internal class Program
 
         }
         Console.WriteLine(DateTime.Now);
+        Console.ReadKey();
     }
     private static string GetStrValue(OfficeOpenXml.ExcelWorksheet Worksheet, int n, int col)
     {
@@ -111,6 +112,7 @@ internal class Program
    
         return val?.ToString() ?? "";
     }
+    
 }
 public class Settings
 {
