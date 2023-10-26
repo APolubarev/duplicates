@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/x4T6gnPLUW1/jcN5wa8o4/mAydj7lyDgdlA9j+X6MFt6y/y7FvOa5ErYm3kwSNf30Kb59dU6VtvpqTGUOqOg==",
+  "dgSpecHash": "ZeyRL7mN/NTheTA3ZRWTrHFN+dzpJfB9iR8qylAo0w1/u27rKf+dC8q9/+hdq/cYCy/kHiA6X63oEHZ/sI4n/Q==",
   "success": true,
-  "projectFilePath": "C:\\Jod\\C#\\duplicates\\duplicates\\duplicates.csproj",
+  "projectFilePath": "D:\\Jod\\C#\\duplicates\\duplicates\\duplicates.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andy\\.nuget\\packages\\epplus\\6.2.10\\epplus.6.2.10.nupkg.sha512",
     "C:\\Users\\Andy\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
@@ -37,9 +37,10 @@
     "C:\\Users\\Andy\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\Andy\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Andy\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.5\\microsoft.netcore.app.runtime.win-x64.6.0.5.nupkg.sha512",
-    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.5.nupkg.sha512",
-    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.5\\microsoft.aspnetcore.app.runtime.win-x64.6.0.5.nupkg.sha512"
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
   ],
   "logs": []
 }
